@@ -1,5 +1,5 @@
 import java.util.*;
-
+ 
 public class Solution_2007 {
 	// 마디의 길이를 출력하는 프로그램
 	public static void main(String[] args) {

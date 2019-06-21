@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Solution_1989 {
-
+   
 	public static void main(String[] args) {
 
 		String src="3\r\n" + 
